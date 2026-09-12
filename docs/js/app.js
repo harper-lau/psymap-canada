@@ -14,7 +14,7 @@ import {
 import { matchQuestion } from "./search.js?v=20260908-1";
 import { createSearchRecords, searchCatalog } from "./search.js?v=20260908-1";
 import { PAGE_NAV_GROUPS, SITE_CONFIG } from "./config.js?v=20260908-1";
-import { initFieldsPage, initProfessorsPage, initSchoolsPage } from "./directory-pages.js?v=20260908-1";
+import { initFieldsPage, initProfessorsPage, initSchoolsPage } from "./directory-pages.js?v=20260912-1";
 import { initQuizPage } from "./quiz.js?v=20260908-1";
 import {
   renderCourseCard,

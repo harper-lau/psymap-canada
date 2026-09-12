@@ -87,7 +87,7 @@ export async function initProfessorsPage() {
         .filter((professor) => !field || (professor.topicIds ?? []).includes(field))
         .sort((a, b) => professorSortName(a).localeCompare(professorSortName(b), "en-CA", { sensitivity: "base" }));
 
-      count.textContent = `${filtered.length} ${filtered.length === 1 ? "profile" : "profiles"} shown · alphabetical, never ranked`;
+      count.textContent = `${filtered.length} ${filtered.length === 1 ? "profile" : "profiles"} shown · alphabetical`;
       if (!filtered.length) {
         results.innerHTML = emptyState("No profiles match these filters.", "Try All schools or All fields. School scaffolds without researched professor data stay empty rather than inventing people.");
         return;

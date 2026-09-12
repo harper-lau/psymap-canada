@@ -2213,10 +2213,17 @@ nav a[aria-current="page"]::after {
 }
 
 .filter-heading {
+  align-items: center;
+  gap: 0.75rem 2rem;
   margin-bottom: 1.5rem;
 }
 
-.filter-heading h2,
+.filter-heading .eyebrow {
+  margin-bottom: 0;
+  font-family: inherit;
+  line-height: 1.65;
+}
+
 .comparison-toolbar h2,
 .field-toolbar h2 {
   margin-bottom: 0.25rem;
@@ -2265,6 +2272,11 @@ nav a[aria-current="page"]::after {
   background-color: var(--white);
   color: var(--text);
   font: inherit;
+}
+
+.filter-grid select {
+  width: 100%;
+  min-width: 0;
 }
 
 .field-toolbar input {
@@ -2958,7 +2970,7 @@ nav a[aria-current="page"]::after {
   }
 
   .filter-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
   }
 
   .field-toolbar input {
