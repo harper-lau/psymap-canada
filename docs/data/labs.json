@@ -1,0 +1,68 @@
+[
+  {
+    "id": "sample-social-connections-lab",
+    "name": "Sample Social Connections Lab",
+    "universityId": "ubc",
+    "summary": "A fictional lab grouping work on belonging, relationships, and social context.",
+    "topicIds": ["social-influence", "relationships-attachment", "culture-identity", "emotion", "personality-differences"],
+    "professorIds": [],
+    "methods": ["Surveys", "Daily diaries", "Behavioural tasks"],
+    "isSample": true,
+    "sampleNotice": "Fictional development lab; not an official university lab."
+  },
+  {
+    "id": "sample-learning-memory-lab",
+    "name": "Sample Learning & Memory Lab",
+    "universityId": "ubc",
+    "summary": "A fictional lab grouping work on attention, learning, and memory.",
+    "topicIds": ["memory-learning", "attention-perception", "brain-behaviour"],
+    "professorIds": [],
+    "methods": ["Computerized tasks", "Eye tracking", "Memory tests"],
+    "isSample": true,
+    "sampleNotice": "Fictional development lab; not an official university lab."
+  },
+  {
+    "id": "sample-lifespan-development-lab",
+    "name": "Sample Lifespan Development Lab",
+    "universityId": "ubc",
+    "summary": "A fictional lab grouping work on developmental change and relationships.",
+    "topicIds": ["human-development", "emotion", "relationships-attachment"],
+    "professorIds": [],
+    "methods": ["Longitudinal surveys", "Observation", "Interviews"],
+    "isSample": true,
+    "sampleNotice": "Fictional development lab; not an official university lab."
+  },
+  {
+    "id": "sample-decision-culture-lab",
+    "name": "Sample Decision & Culture Lab",
+    "universityId": "sfu",
+    "summary": "A fictional lab grouping work on judgment, language, identity, and culture.",
+    "topicIds": ["decision-making", "personality-differences", "social-influence", "culture-identity", "language-cognition"],
+    "professorIds": [],
+    "methods": ["Choice tasks", "Language tasks", "Cross-group comparisons"],
+    "isSample": true,
+    "sampleNotice": "Fictional development lab; not an official university lab."
+  },
+  {
+    "id": "sample-wellbeing-stress-lab",
+    "name": "Sample Wellbeing & Stress Lab",
+    "universityId": "sfu",
+    "summary": "A fictional, non-clinical lab grouping work on stress, habits, and wellbeing.",
+    "topicIds": ["stress-coping", "mental-health-wellbeing", "health-behaviour", "emotion"],
+    "professorIds": [],
+    "methods": ["Daily diaries", "Surveys", "Behavioural experiments"],
+    "isSample": true,
+    "sampleNotice": "Fictional development lab; not an official university lab."
+  },
+  {
+    "id": "sample-language-brain-lab",
+    "name": "Sample Language & Brain Lab",
+    "universityId": "sfu",
+    "summary": "A fictional lab grouping work on language, attention, memory, and brain–behaviour links.",
+    "topicIds": ["language-cognition", "brain-behaviour", "attention-perception", "memory-learning"],
+    "professorIds": [],
+    "methods": ["Reaction-time tasks", "Language tasks", "Attention tasks"],
+    "isSample": true,
+    "sampleNotice": "Fictional development lab; not an official university lab."
+  }
+]

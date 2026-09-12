@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q-crowd",
+    "question": "Why do people follow a crowd?",
+    "keywords": ["people", "follow", "crowd", "group", "groups", "peer", "pressure", "conform", "conformity", "influence"],
+    "topicIds": ["social-influence", "culture-identity", "decision-making"]
+  },
+  {
+    "id": "q-forgetting",
+    "question": "Why are some memories easy to forget?",
+    "keywords": ["memory", "memories", "remember", "forget", "forgetting", "learn", "learning", "study"],
+    "topicIds": ["memory-learning", "attention-perception", "brain-behaviour"]
+  },
+  {
+    "id": "q-children-emotions",
+    "question": "How do children learn to manage emotions?",
+    "keywords": ["children", "child", "kids", "develop", "development", "learn", "manage", "emotion", "emotions", "feelings"],
+    "topicIds": ["human-development", "emotion", "relationships-attachment"]
+  },
+  {
+    "id": "q-stress-thinking",
+    "question": "Why does stress affect how we think?",
+    "keywords": ["stress", "pressure", "overwhelmed", "think", "thinking", "focus", "attention", "coping"],
+    "topicIds": ["stress-coping", "emotion", "attention-perception", "health-behaviour"]
+  },
+  {
+    "id": "q-language-thought",
+    "question": "How does language shape thought?",
+    "keywords": ["language", "words", "speak", "speaking", "thought", "think", "thinking", "culture"],
+    "topicIds": ["language-cognition", "culture-identity", "memory-learning"]
+  },
+  {
+    "id": "q-risk",
+    "question": "Why do we make risky choices?",
+    "keywords": ["risk", "risky", "choice", "choices", "choose", "decision", "decisions", "judgment"],
+    "topicIds": ["decision-making", "personality-differences", "emotion", "brain-behaviour"]
+  },
+  {
+    "id": "q-friendship",
+    "question": "What makes friendships feel close?",
+    "keywords": ["friend", "friendship", "friends", "close", "closeness", "relationship", "relationships", "belong", "belonging"],
+    "topicIds": ["relationships-attachment", "social-influence", "emotion", "human-development"]
+  },
+  {
+    "id": "q-culture-identity",
+    "question": "How do culture and identity shape behaviour?",
+    "keywords": ["culture", "cultural", "identity", "community", "behaviour", "behavior", "social", "language"],
+    "topicIds": ["culture-identity", "social-influence", "personality-differences", "language-cognition"]
+  },
+  {
+    "id": "q-sleep-wellbeing",
+    "question": "Why do sleep and habits affect wellbeing?",
+    "keywords": ["sleep", "habit", "habits", "routine", "health", "wellbeing", "well-being", "stress"],
+    "topicIds": ["health-behaviour", "stress-coping", "brain-behaviour", "mental-health-wellbeing"]
+  },
+  {
+    "id": "q-personality",
+    "question": "Why do people differ in personality?",
+    "keywords": ["people", "differ", "different", "personality", "trait", "traits", "temperament", "individual"],
+    "topicIds": ["personality-differences", "human-development", "culture-identity", "brain-behaviour"]
+  }
+]

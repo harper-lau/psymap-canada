@@ -1,0 +1,333 @@
+[
+  {
+    "id": "ubc",
+    "name": "University of British Columbia",
+    "shortName": "UBC",
+    "aliases": ["U of BC", "British Columbia"],
+    "location": {
+      "city": "Vancouver",
+      "province": "British Columbia",
+      "provinceCode": "BC",
+      "country": "Canada"
+    },
+    "departmentSummary": "UBC Psychology offers BA Psychology pathways. For students interested in neuroscience, its official Behavioural Neuroscience page directs prospective students to UBC's interdisciplinary Undergraduate Program in Neuroscience.",
+    "degreeOptions": [
+      "BA Psychology — major, honours, and minor pathways",
+      "BSc Major in Neuroscience — an interdisciplinary program with an emphasis option in Behavioural and Cognitive Neuroscience"
+    ],
+    "officialResearchAreaLabel": "Graduate research streams",
+    "officialResearchAreas": [
+      "Behavioural Neuroscience",
+      "Clinical",
+      "Cognitive Science",
+      "Developmental",
+      "Health",
+      "Quantitative Methods",
+      "Social & Personality"
+    ],
+    "undergraduateResearchUrl": "https://psych.ubc.ca/undergraduate/opportunities/student-research/",
+    "officialSources": [
+      {
+        "label": "UBC Department of Psychology",
+        "url": "https://psych.ubc.ca/"
+      },
+      {
+        "label": "UBC undergraduate programs",
+        "url": "https://psych.ubc.ca/undergraduate/"
+      },
+      {
+        "label": "UBC Psychology research streams",
+        "url": "https://psych.ubc.ca/graduate/research-streams/"
+      },
+      {
+        "label": "UBC Behavioural Neuroscience program transition",
+        "url": "https://psych.ubc.ca/undergraduate/behavioural-neuroscience-programs/"
+      },
+      {
+        "label": "UBC undergraduate student research",
+        "url": "https://psych.ubc.ca/undergraduate/opportunities/student-research/"
+      }
+    ],
+    "sourceAccessedOn": "2026-09-04",
+    "humanVerificationStatus": "Partial — university context and selected professor profiles checked",
+    "contentStatus": "official-university-context-with-verified-professors-and-sample-learning-records",
+    "sampleNotice": "The selected professor profiles are source-backed and were checked on 2026-09-04. Lab and course cards remain fictional or representative learning records, not official UBC listings.",
+    "dataStatus": "source-backed",
+    "facultyCount": { "value": null, "asOf": null, "status": "unavailable", "note": "A comparable, source-backed faculty count has not been added." },
+    "featuredPrograms": ["BA Psychology pathways", "Interdisciplinary undergraduate neuroscience pathway"],
+    "featuredLabs": []
+  },
+  {
+    "id": "sfu",
+    "name": "Simon Fraser University",
+    "shortName": "SFU",
+    "aliases": ["Simon Fraser", "SFU Psychology"],
+    "location": {
+      "city": "Burnaby",
+      "province": "British Columbia",
+      "provinceCode": "BC",
+      "country": "Canada"
+    },
+    "departmentSummary": "SFU Psychology offers undergraduate Psychology pathways and an interdisciplinary Behavioural Neuroscience program. Its official pages describe current program options, research areas, and research participation.",
+    "degreeOptions": [
+      "BA Psychology — major, honours, minor, extended minor, and selected joint majors",
+      "BA Psychology with Applied Behaviour Analysis concentration",
+      "BSc Behavioural Neuroscience — major and honours pathways"
+    ],
+    "officialResearchAreaLabel": "Graduate program research areas",
+    "officialResearchAreas": [
+      "Psychology Graduate Program — Cognitive & Neural Sciences",
+      "Psychology Graduate Program — Developmental",
+      "Psychology Graduate Program — History, Quantitative & Theoretical",
+      "Psychology Graduate Program — Law & Forensic Psychology",
+      "Psychology Graduate Program — Social Psychology",
+      "Clinical Psychology Graduate Program — Clinical-General",
+      "Clinical Psychology Graduate Program — Clinical-Child",
+      "Clinical Psychology Graduate Program — Clinical-Forensic",
+      "Clinical Psychology Graduate Program — Clinical-Neuropsychology"
+    ],
+    "undergraduateResearchUrl": "https://www.sfu.ca/psychology/undergraduate/research/research-participation.html",
+    "officialSources": [
+      {
+        "label": "SFU Department of Psychology",
+        "url": "https://www.sfu.ca/psychology/"
+      },
+      {
+        "label": "SFU Psychology undergraduate programs",
+        "url": "https://www.sfu.ca/psychology/undergraduate/programs.html"
+      },
+      {
+        "label": "SFU Psychology graduate research areas",
+        "url": "https://www.sfu.ca/psychology/graduate/"
+      },
+      {
+        "label": "SFU Psychology research participation",
+        "url": "https://www.sfu.ca/psychology/undergraduate/research/research-participation.html"
+      }
+    ],
+    "sourceAccessedOn": "2026-09-04",
+    "humanVerificationStatus": "Partial — university context and selected professor profiles checked",
+    "contentStatus": "official-university-context-with-verified-professors-and-sample-learning-records",
+    "sampleNotice": "The selected professor profiles are source-backed and were checked on 2026-09-04. Lab and course cards remain fictional or representative learning records, not official SFU listings.",
+    "dataStatus": "source-backed",
+    "facultyCount": { "value": null, "asOf": null, "status": "unavailable", "note": "A comparable, source-backed faculty count has not been added." },
+    "featuredPrograms": ["BA Psychology pathways", "BSc Behavioural Neuroscience pathways"],
+    "featuredLabs": []
+  },
+  {
+    "id": "uvic",
+    "name": "University of Victoria",
+    "shortName": "UVic",
+    "aliases": ["Victoria"],
+    "location": { "city": "Victoria", "province": "British Columbia", "provinceCode": "BC", "country": "Canada" },
+    "departmentSummary": "Program-level psychology research is pending. Four selected professor profiles are source-backed from official UVic pages.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [{ "label": "UVic Psychology faculty directory", "url": "https://www.uvic.ca/socialsciences/psychology/faculty-staff/index.php" }], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": "2026-09-04", "humanVerificationStatus": "Partial — selected professor profiles checked", "contentStatus": "selected-professor-profiles-only", "dataStatus": "placeholder",
+    "sampleNotice": "This school profile remains a program-research scaffold. Four selected professor profiles were checked on 2026-09-04; any lab or course cards remain representative learning records.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "ualberta",
+    "name": "University of Alberta",
+    "shortName": "UAlberta",
+    "aliases": ["U of A", "Alberta"],
+    "location": { "city": "Edmonton", "province": "Alberta", "provinceCode": "AB", "country": "Canada" },
+    "departmentSummary": "Program-level psychology research is pending. Four selected professor profiles are source-backed from official University of Alberta pages.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [{ "label": "University of Alberta Arts Psychology directory", "url": "https://apps.ualberta.ca/directory/search/department/170300" }, { "label": "University of Alberta Science Psychology directory", "url": "https://apps.ualberta.ca/directory/search/department/360800" }], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": "2026-09-08", "humanVerificationStatus": "Partial — selected professor profiles checked", "contentStatus": "selected-professor-profiles-only", "dataStatus": "placeholder",
+    "sampleNotice": "This school profile remains a program-research scaffold. Four selected professor profiles were checked on 2026-09-08; any lab or course cards remain representative learning records.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "ucalgary",
+    "name": "University of Calgary",
+    "shortName": "UCalgary",
+    "aliases": ["Calgary"],
+    "location": { "city": "Calgary", "province": "Alberta", "provinceCode": "AB", "country": "Canada" },
+    "departmentSummary": "Program-level psychology research is pending. Four selected professor profiles are source-backed from official University of Calgary pages.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [{ "label": "University of Calgary Psychology full-time faculty", "url": "https://arts.ucalgary.ca/psychology/contact/psychology-directory/full-time-faculty" }], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": "2026-09-08", "humanVerificationStatus": "Partial — selected professor profiles checked", "contentStatus": "selected-professor-profiles-only", "dataStatus": "placeholder",
+    "sampleNotice": "This school profile remains a program-research scaffold. Four selected professor profiles were checked on 2026-09-08; any lab or course cards remain representative learning records.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "usask",
+    "name": "University of Saskatchewan",
+    "shortName": "USask",
+    "aliases": ["Saskatchewan"],
+    "location": { "city": "Saskatoon", "province": "Saskatchewan", "provinceCode": "SK", "country": "Canada" },
+    "departmentSummary": "Psychology profile research is pending; no department claims are published in this preview.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": null, "humanVerificationStatus": "Not started", "contentStatus": "placeholder", "dataStatus": "placeholder",
+    "sampleNotice": "This school entry is a directory scaffold, not a researched psychology profile.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "umanitoba",
+    "name": "University of Manitoba",
+    "shortName": "UM",
+    "aliases": ["Manitoba", "U of M"],
+    "location": { "city": "Winnipeg", "province": "Manitoba", "provinceCode": "MB", "country": "Canada" },
+    "departmentSummary": "Psychology profile research is pending; no department claims are published in this preview.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": null, "humanVerificationStatus": "Not started", "contentStatus": "placeholder", "dataStatus": "placeholder",
+    "sampleNotice": "This school entry is a directory scaffold, not a researched psychology profile.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "utoronto",
+    "name": "University of Toronto",
+    "shortName": "U of T",
+    "aliases": ["UofT", "Toronto"],
+    "location": { "city": "Toronto", "province": "Ontario", "provinceCode": "ON", "country": "Canada" },
+    "departmentSummary": "Program-level psychology research is pending. Four selected Downtown Toronto (St. George) professor profiles are source-backed from official University of Toronto pages.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [{ "label": "University of Toronto Psychology faculty directory", "url": "https://www.psych.utoronto.ca/people/directories/all-faculty" }], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": "2026-09-04", "humanVerificationStatus": "Partial — selected professor profiles checked", "contentStatus": "selected-professor-profiles-only", "dataStatus": "placeholder",
+    "sampleNotice": "This school profile remains a program-research scaffold. Four selected St. George professor profiles were checked on 2026-09-04; any lab or course cards remain representative learning records.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "western",
+    "name": "Western University",
+    "shortName": "Western",
+    "aliases": ["University of Western Ontario", "UWO"],
+    "location": { "city": "London", "province": "Ontario", "provinceCode": "ON", "country": "Canada" },
+    "departmentSummary": "Psychology profile research is pending; no department claims are published in this preview.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": null, "humanVerificationStatus": "Not started", "contentStatus": "placeholder", "dataStatus": "placeholder",
+    "sampleNotice": "This school entry is a directory scaffold, not a researched psychology profile.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "york",
+    "name": "York University",
+    "shortName": "York",
+    "aliases": ["YorkU"],
+    "location": { "city": "Toronto", "province": "Ontario", "provinceCode": "ON", "country": "Canada" },
+    "departmentSummary": "Psychology profile research is pending; no department claims are published in this preview.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": null, "humanVerificationStatus": "Not started", "contentStatus": "placeholder", "dataStatus": "placeholder",
+    "sampleNotice": "This school entry is a directory scaffold, not a researched psychology profile.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "queens",
+    "name": "Queen's University",
+    "shortName": "Queen's",
+    "aliases": ["Queens University"],
+    "location": { "city": "Kingston", "province": "Ontario", "provinceCode": "ON", "country": "Canada" },
+    "departmentSummary": "Psychology profile research is pending; no department claims are published in this preview.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": null, "humanVerificationStatus": "Not started", "contentStatus": "placeholder", "dataStatus": "placeholder",
+    "sampleNotice": "This school entry is a directory scaffold, not a researched psychology profile.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "waterloo",
+    "name": "University of Waterloo",
+    "shortName": "Waterloo",
+    "aliases": ["UWaterloo"],
+    "location": { "city": "Waterloo", "province": "Ontario", "provinceCode": "ON", "country": "Canada" },
+    "departmentSummary": "Psychology profile research is pending; no department claims are published in this preview.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": null, "humanVerificationStatus": "Not started", "contentStatus": "placeholder", "dataStatus": "placeholder",
+    "sampleNotice": "This school entry is a directory scaffold, not a researched psychology profile.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "mcmaster",
+    "name": "McMaster University",
+    "shortName": "McMaster",
+    "aliases": ["Mac"],
+    "location": { "city": "Hamilton", "province": "Ontario", "provinceCode": "ON", "country": "Canada" },
+    "departmentSummary": "Psychology profile research is pending; no department claims are published in this preview.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": null, "humanVerificationStatus": "Not started", "contentStatus": "placeholder", "dataStatus": "placeholder",
+    "sampleNotice": "This school entry is a directory scaffold, not a researched psychology profile.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "uottawa",
+    "name": "University of Ottawa",
+    "shortName": "uOttawa",
+    "aliases": ["Ottawa"],
+    "location": { "city": "Ottawa", "province": "Ontario", "provinceCode": "ON", "country": "Canada" },
+    "departmentSummary": "Psychology profile research is pending; no department claims are published in this preview.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": null, "humanVerificationStatus": "Not started", "contentStatus": "placeholder", "dataStatus": "placeholder",
+    "sampleNotice": "This school entry is a directory scaffold, not a researched psychology profile.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "mcgill",
+    "name": "McGill University",
+    "shortName": "McGill",
+    "aliases": ["McGill Psychology"],
+    "location": { "city": "Montréal", "province": "Quebec", "provinceCode": "QC", "country": "Canada" },
+    "departmentSummary": "Program-level psychology research is pending. Four selected core-faculty profiles are source-backed from official McGill pages.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [{ "label": "McGill Psychology core faculty", "url": "https://www.mcgill.ca/psychology/people-0/faculty-0" }], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": "2026-09-04", "humanVerificationStatus": "Partial — selected professor profiles checked", "contentStatus": "selected-professor-profiles-only", "dataStatus": "placeholder",
+    "sampleNotice": "This school profile remains a program-research scaffold. Four selected professor profiles were checked on 2026-09-04; any lab or course cards remain representative learning records.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "udem",
+    "name": "Université de Montréal",
+    "shortName": "UdeM",
+    "aliases": ["University of Montreal", "Montreal"],
+    "location": { "city": "Montréal", "province": "Quebec", "provinceCode": "QC", "country": "Canada" },
+    "departmentSummary": "Psychology profile research is pending; no department claims are published in this preview.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": null, "humanVerificationStatus": "Not started", "contentStatus": "placeholder", "dataStatus": "placeholder",
+    "sampleNotice": "This school entry is a directory scaffold, not a researched psychology profile.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "dalhousie",
+    "name": "Dalhousie University",
+    "shortName": "Dalhousie",
+    "aliases": ["Dal"],
+    "location": { "city": "Halifax", "province": "Nova Scotia", "provinceCode": "NS", "country": "Canada" },
+    "departmentSummary": "Program-level psychology and neuroscience research is pending. Four selected professor profiles are source-backed from official Dalhousie pages.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [{ "label": "Dalhousie Psychology and Neuroscience primary faculty", "url": "https://www.dal.ca/faculty/science/psychology_neuroscience/faculty-staff.html" }], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": "2026-09-08", "humanVerificationStatus": "Partial — selected professor profiles checked", "contentStatus": "selected-professor-profiles-only", "dataStatus": "placeholder",
+    "sampleNotice": "This school profile remains a program-research scaffold. Four selected professor profiles were checked on 2026-09-08; any lab or course cards remain representative learning records.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "unb",
+    "name": "University of New Brunswick",
+    "shortName": "UNB",
+    "aliases": ["New Brunswick"],
+    "location": { "city": "Fredericton", "province": "New Brunswick", "provinceCode": "NB", "country": "Canada" },
+    "departmentSummary": "Psychology profile research is pending; no department claims are published in this preview.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": null, "humanVerificationStatus": "Not started", "contentStatus": "placeholder", "dataStatus": "placeholder",
+    "sampleNotice": "This school entry is a directory scaffold, not a researched psychology profile.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "upei",
+    "name": "University of Prince Edward Island",
+    "shortName": "UPEI",
+    "aliases": ["Prince Edward Island"],
+    "location": { "city": "Charlottetown", "province": "Prince Edward Island", "provinceCode": "PE", "country": "Canada" },
+    "departmentSummary": "Psychology profile research is pending; no department claims are published in this preview.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": null, "humanVerificationStatus": "Not started", "contentStatus": "placeholder", "dataStatus": "placeholder",
+    "sampleNotice": "This school entry is a directory scaffold, not a researched psychology profile.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  },
+  {
+    "id": "mun",
+    "name": "Memorial University of Newfoundland",
+    "shortName": "Memorial",
+    "aliases": ["MUN"],
+    "location": { "city": "St. John's", "province": "Newfoundland and Labrador", "provinceCode": "NL", "country": "Canada" },
+    "departmentSummary": "Psychology profile research is pending; no department claims are published in this preview.",
+    "degreeOptions": [], "officialResearchAreas": [], "officialSources": [], "undergraduateResearchUrl": null,
+    "sourceAccessedOn": null, "humanVerificationStatus": "Not started", "contentStatus": "placeholder", "dataStatus": "placeholder",
+    "sampleNotice": "This school entry is a directory scaffold, not a researched psychology profile.",
+    "facultyCount": { "value": null, "status": "unavailable" }, "featuredPrograms": [], "featuredLabs": []
+  }
+]

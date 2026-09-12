@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Browse Psychology topics or map a question to possible fields of study.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Question Explorer — Psychology Map Canada">
+  <meta property="og:description" content="Map a question about human behaviour to connected psychology fields and source trails.">
+  <meta property="og:url" content="https://psychology-map-canada.tonyyoung9838.chatgpt.site/explore.html">
+  <meta property="og:image" content="https://psychology-map-canada.tonyyoung9838.chatgpt.site/assets/psychology-map-canada-social.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Question Explorer — Psychology Map Canada">
+  <meta name="twitter:description" content="Map a question about human behaviour to connected psychology fields and source trails.">
+  <meta name="twitter:image" content="https://psychology-map-canada.tonyyoung9838.chatgpt.site/assets/psychology-map-canada-social.png">
+  <title>Question Explorer — Psychology Map Canada</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="css/style.css">
+  <script type="module" src="js/app.js?v=20260908-1"></script>
+</head>
+<body data-page="explore">
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div class="alpha-banner" role="note">Exploration preview <span aria-hidden="true">•</span> Matching is local and every record states its source status.</div>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="index.html" aria-label="PsyMap Canada home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span>PsyMap <em>Canada</em></span></a>
+      <nav aria-label="Primary navigation"><a href="explore.html" aria-current="page">Explore</a><a href="#universities">Universities</a><a href="about.html">About</a></nav>
+    </div>
+  </header>
+
+  <main id="main-content" class="page-main">
+    <section class="explore-head shell">
+      <p class="eyebrow"><span></span>Explore Psychology</p>
+      <div class="explore-title-row">
+        <div><h1 id="explore-title">Find a way into the field.</h1><p id="explore-intro">Browse the topic map, or begin with a question in your own words.</p></div>
+        <form class="question-form compact-form" id="question-form" action="explore.html" method="get">
+          <label for="question-input">Ask another question</label>
+          <div class="input-row"><input id="question-input" name="q" type="search" maxlength="240" autocomplete="off" placeholder="What are you curious about?" required><button class="button button-primary" type="submit" aria-label="Map question"><span class="desktop-label">Map question</span><span class="mobile-label">Map</span> <span aria-hidden="true">→</span></button></div>
+        </form>
+      </div>
+    </section>
+
+    <section class="section shell results-section" id="question-results" hidden aria-labelledby="result-heading">
+      <div id="question-context"></div>
+      <h2 class="results-title" id="result-heading">Connections for your question</h2>
+      <div id="match-message" class="callout" role="status" aria-live="polite"></div>
+      <div id="matched-topics" class="topic-grid"></div>
+    </section>
+
+    <section class="section shell" aria-labelledby="browse-heading">
+      <div class="section-heading split-heading compact-heading">
+        <div><p class="eyebrow"><span></span>Topic library</p><h2 id="browse-heading">Browse all Psychology topics</h2></div>
+        <p>These student-friendly groupings can overlap. Select a topic to see its questions, professor profiles, sample labs and courses, and university links.</p>
+      </div>
+      <div id="topic-browser" class="topic-grid"><div class="loading-state" role="status">Loading topics…</div></div>
+    </section>
+
+    <section class="section section-tint" id="universities" aria-labelledby="universities-heading">
+      <div class="shell">
+        <div class="section-heading split-heading compact-heading"><div><p class="eyebrow"><span></span>University pathways</p><h2 id="universities-heading">Explore school profiles and research scaffolds</h2></div><p>University pages separate official program context and selected verified professors from clearly labelled sample or pending records.</p></div>
+        <div id="university-browser" class="university-grid"><div class="loading-state" role="status">Loading universities…</div></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><div class="shell footer-inner"><div><a class="brand brand-footer" href="index.html">PsyMap <em>Canada</em></a><p>A student-friendly path into Psychology research.</p></div><div class="footer-links"><a href="explore.html">Explore topics</a><a href="about.html">Methodology &amp; limitations</a></div><p class="footer-note">Static preview · Official sources checked · Samples labelled</p></div></footer>
+</body>
+</html>

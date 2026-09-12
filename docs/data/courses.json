@@ -1,0 +1,102 @@
+[
+  {
+    "id": "ubc-sample-intro",
+    "universityId": "ubc",
+    "code": "SAMPLE 101",
+    "name": "Foundations of Psychology",
+    "summary": "A representative overview of core psychological questions and methods.",
+    "topicIds": ["social-influence", "memory-learning", "human-development", "brain-behaviour"],
+    "isSample": true,
+    "sampleNotice": "Representative development record; not an official course listing."
+  },
+  {
+    "id": "ubc-sample-social",
+    "universityId": "ubc",
+    "code": "SAMPLE 220",
+    "name": "Social Psychology",
+    "summary": "A representative exploration of people in groups and relationships.",
+    "topicIds": ["social-influence", "relationships-attachment", "culture-identity", "personality-differences"],
+    "isSample": true,
+    "sampleNotice": "Representative development record; not an official course listing."
+  },
+  {
+    "id": "ubc-sample-cognitive",
+    "universityId": "ubc",
+    "code": "SAMPLE 230",
+    "name": "Cognitive Psychology",
+    "summary": "A representative exploration of attention, memory, language, and choice.",
+    "topicIds": ["memory-learning", "attention-perception", "language-cognition", "decision-making"],
+    "isSample": true,
+    "sampleNotice": "Representative development record; not an official course listing."
+  },
+  {
+    "id": "ubc-sample-development",
+    "universityId": "ubc",
+    "code": "SAMPLE 240",
+    "name": "Developmental Psychology",
+    "summary": "A representative exploration of change across childhood, adolescence, and adulthood.",
+    "topicIds": ["human-development", "emotion", "relationships-attachment"],
+    "isSample": true,
+    "sampleNotice": "Representative development record; not an official course listing."
+  },
+  {
+    "id": "ubc-sample-health",
+    "universityId": "ubc",
+    "code": "SAMPLE 250",
+    "name": "Health and Wellbeing Psychology",
+    "summary": "A representative, non-clinical exploration of stress, habits, and wellbeing.",
+    "topicIds": ["health-behaviour", "stress-coping", "mental-health-wellbeing", "emotion"],
+    "isSample": true,
+    "sampleNotice": "Representative development record; not an official course listing."
+  },
+  {
+    "id": "sfu-sample-intro",
+    "universityId": "sfu",
+    "code": "SAMPLE 100",
+    "name": "Psychology in Everyday Life",
+    "summary": "A representative overview connecting Psychology with everyday questions.",
+    "topicIds": ["social-influence", "personality-differences", "human-development", "brain-behaviour"],
+    "isSample": true,
+    "sampleNotice": "Representative development record; not an official course listing."
+  },
+  {
+    "id": "sfu-sample-brain",
+    "universityId": "sfu",
+    "code": "SAMPLE 210",
+    "name": "Brain and Behaviour",
+    "summary": "A representative exploration of biological systems and behaviour.",
+    "topicIds": ["brain-behaviour", "attention-perception", "memory-learning"],
+    "isSample": true,
+    "sampleNotice": "Representative development record; not an official course listing."
+  },
+  {
+    "id": "sfu-sample-research",
+    "universityId": "sfu",
+    "code": "SAMPLE 201",
+    "name": "Research Methods in Psychology",
+    "summary": "A representative introduction to designing and interpreting Psychology studies.",
+    "topicIds": ["decision-making", "personality-differences", "memory-learning"],
+    "isSample": true,
+    "sampleNotice": "Representative development record; not an official course listing."
+  },
+  {
+    "id": "sfu-sample-culture",
+    "universityId": "sfu",
+    "code": "SAMPLE 260",
+    "name": "Culture, Language, and Identity",
+    "summary": "A representative exploration of culture, language, identity, and social life.",
+    "topicIds": ["culture-identity", "language-cognition", "social-influence", "personality-differences"],
+    "isSample": true,
+    "sampleNotice": "Representative development record; not an official course listing."
+  },
+  {
+    "id": "sfu-sample-wellbeing",
+    "universityId": "sfu",
+    "code": "SAMPLE 270",
+    "name": "Stress, Health, and Wellbeing",
+    "summary": "A representative, non-clinical exploration of stress, health behaviour, and wellbeing.",
+    "topicIds": ["stress-coping", "mental-health-wellbeing", "health-behaviour", "emotion"],
+    "isSample": true,
+    "sampleNotice": "Representative development record; not an official course listing."
+  }
+]

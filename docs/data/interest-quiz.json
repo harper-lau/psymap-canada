@@ -1,0 +1,68 @@
+[
+  {
+    "id": "interest-discovery-v1",
+    "version": 1,
+    "title": "Psychology Field Interest Explorer",
+    "disclaimer": "This educational activity reflects the preferences you select today. It is not a diagnosis, validated psychological test, MBTI assessment, admissions recommendation, or career prediction.",
+    "methodology": "For each field, your 1–5 responses are converted to a 0–4 preference value, multiplied by the visible field weights, and scaled independently from 0 to 100. Field percentages do not need to add up to 100.",
+    "scale": [
+      { "value": 1, "label": "Strongly dislike" },
+      { "value": 2, "label": "Dislike" },
+      { "value": 3, "label": "Neutral" },
+      { "value": 4, "label": "Like" },
+      { "value": 5, "label": "Strongly like" }
+    ],
+    "questions": [
+      {
+        "id": "q1",
+        "prompt": "Designing a small experiment to learn why people remember some information better than other information.",
+        "weights": { "memory-learning": 3, "attention-perception": 2, "brain-behaviour": 1 }
+      },
+      {
+        "id": "q2",
+        "prompt": "Exploring how groups, friendships, and the desire to belong can influence a person's choices.",
+        "weights": { "social-influence": 3, "relationships-attachment": 2, "culture-identity": 1 }
+      },
+      {
+        "id": "q3",
+        "prompt": "Learning how children and teenagers change in the ways they think, feel, and relate to others.",
+        "weights": { "human-development": 3, "emotion": 2, "relationships-attachment": 2 }
+      },
+      {
+        "id": "q4",
+        "prompt": "Studying how language, culture, and identity shape the way people understand the world.",
+        "weights": { "language-cognition": 3, "culture-identity": 3, "social-influence": 1 }
+      },
+      {
+        "id": "q5",
+        "prompt": "Investigating what happens in the brain while someone learns, focuses, or makes a choice.",
+        "weights": { "brain-behaviour": 3, "attention-perception": 2, "decision-making": 1 }
+      },
+      {
+        "id": "q6",
+        "prompt": "Understanding why people respond differently to the same event without reducing them to a personality label.",
+        "weights": { "personality-differences": 3, "emotion": 2, "culture-identity": 1 }
+      },
+      {
+        "id": "q7",
+        "prompt": "Exploring how stress, sleep, habits, and daily environments relate to wellbeing.",
+        "weights": { "stress-coping": 3, "health-behaviour": 3, "mental-health-wellbeing": 2 }
+      },
+      {
+        "id": "q8",
+        "prompt": "Comparing how people judge risk, weigh options, and make decisions under uncertainty.",
+        "weights": { "decision-making": 3, "personality-differences": 1, "social-influence": 1 }
+      },
+      {
+        "id": "q9",
+        "prompt": "Evaluating evidence about programs intended to support mental health and community wellbeing.",
+        "weights": { "mental-health-wellbeing": 3, "stress-coping": 2, "health-behaviour": 1 }
+      },
+      {
+        "id": "q10",
+        "prompt": "Using interviews, observations, or surveys to understand emotion and relationships in everyday life.",
+        "weights": { "emotion": 2, "relationships-attachment": 3, "human-development": 1 }
+      }
+    ]
+  }
+]

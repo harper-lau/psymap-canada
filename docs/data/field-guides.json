@@ -1,0 +1,86 @@
+[
+  {
+    "topicId": "social-influence",
+    "interestSignals": ["You notice how groups shape choices", "You enjoy questions about belonging and persuasion", "You like comparing behaviour across social settings"],
+    "studyPathways": ["Introductory psychology", "Social psychology", "Research methods and statistics"],
+    "careers": ["Community research", "Policy and program evaluation", "User research", "Graduate study in social psychology"]
+  },
+  {
+    "topicId": "memory-learning",
+    "interestSignals": ["You wonder why some ideas stick", "You enjoy learning and study-strategy questions", "You like carefully designed experiments"],
+    "studyPathways": ["Cognitive psychology", "Learning and memory", "Experimental methods"],
+    "careers": ["Learning research", "Educational program design", "Human-factors research", "Graduate study in cognition"]
+  },
+  {
+    "topicId": "attention-perception",
+    "interestSignals": ["You notice distraction and visual detail", "You enjoy perception puzzles", "You want to study how people interpret the world"],
+    "studyPathways": ["Cognitive psychology", "Sensation and perception", "Experimental design"],
+    "careers": ["Human-factors research", "Accessibility research", "Product research", "Graduate study in perception"]
+  },
+  {
+    "topicId": "language-cognition",
+    "interestSignals": ["You are curious about words and thought", "You enjoy language learning", "You notice how people interpret the same message differently"],
+    "studyPathways": ["Cognitive psychology", "Psycholinguistics", "Language or communication electives"],
+    "careers": ["Language research", "Learning-technology research", "Communication research", "Graduate study in psycholinguistics"]
+  },
+  {
+    "topicId": "human-development",
+    "interestSignals": ["You enjoy learning how people change with age", "You are curious about childhood and adolescence", "You value long-term perspectives"],
+    "studyPathways": ["Developmental psychology", "Lifespan development", "Observation and longitudinal methods"],
+    "careers": ["Youth-program research", "Education research", "Community services", "Graduate study in developmental psychology"]
+  },
+  {
+    "topicId": "emotion",
+    "interestSignals": ["You notice how feelings affect decisions", "You wonder how emotions are expressed", "You enjoy connecting biology with social experience"],
+    "studyPathways": ["Affective science", "Social psychology", "Biological psychology"],
+    "careers": ["Wellbeing research", "User research", "Program evaluation", "Graduate study in affective science"]
+  },
+  {
+    "topicId": "stress-coping",
+    "interestSignals": ["You want to understand resilience", "You notice how pressure affects performance", "You care about healthy environments"],
+    "studyPathways": ["Health psychology", "Stress and coping", "Research methods"],
+    "careers": ["Health-program research", "Workplace research", "Community program evaluation", "Graduate study in health psychology"]
+  },
+  {
+    "topicId": "mental-health-wellbeing",
+    "interestSignals": ["You care about how wellbeing is studied", "You value respectful mental-health communication", "You want to understand evidence behind support programs"],
+    "studyPathways": ["Abnormal or clinical psychology foundations", "Health psychology", "Ethics and research methods"],
+    "careers": ["Mental-health research", "Community program evaluation", "Public education", "Graduate study toward research or regulated practice"]
+  },
+  {
+    "topicId": "personality-differences",
+    "interestSignals": ["You wonder why people respond differently", "You enjoy patterns without reducing people to labels", "You like measurement questions"],
+    "studyPathways": ["Personality psychology", "Psychometrics", "Statistics and individual differences"],
+    "careers": ["Assessment research", "Organizational research", "People analytics", "Graduate study in personality science"]
+  },
+  {
+    "topicId": "relationships-attachment",
+    "interestSignals": ["You are curious about closeness and trust", "You notice how relationships change", "You enjoy questions about family and friendship"],
+    "studyPathways": ["Social psychology", "Developmental psychology", "Relationship science"],
+    "careers": ["Family and relationship research", "Youth-program research", "Community services", "Graduate study in relationship science"]
+  },
+  {
+    "topicId": "culture-identity",
+    "interestSignals": ["You notice how context shapes behaviour", "You value cross-cultural perspectives", "You enjoy questions about identity and belonging"],
+    "studyPathways": ["Cultural psychology", "Social psychology", "Culture, language, or identity electives"],
+    "careers": ["Cross-cultural research", "Community engagement", "Policy research", "Graduate study in cultural psychology"]
+  },
+  {
+    "topicId": "brain-behaviour",
+    "interestSignals": ["You are fascinated by the brain", "You enjoy biology and psychology together", "You like laboratory methods"],
+    "studyPathways": ["Behavioural neuroscience", "Biological psychology", "Cognition and laboratory methods"],
+    "careers": ["Neuroscience research", "Clinical-research coordination", "Laboratory support", "Graduate study in behavioural neuroscience"]
+  },
+  {
+    "topicId": "decision-making",
+    "interestSignals": ["You analyze choices and trade-offs", "You enjoy questions about risk", "You notice when context changes judgment"],
+    "studyPathways": ["Cognitive psychology", "Judgment and decision making", "Statistics or behavioural economics electives"],
+    "careers": ["Behavioural research", "Policy analysis", "Consumer or user research", "Graduate study in decision science"]
+  },
+  {
+    "topicId": "health-behaviour",
+    "interestSignals": ["You are curious about habits and health", "You notice how environments shape routines", "You enjoy prevention-focused questions"],
+    "studyPathways": ["Health psychology", "Behaviour change", "Public-health or biology electives"],
+    "careers": ["Health-promotion research", "Program evaluation", "Public-health communication", "Graduate study in health psychology"]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "social-influence",
+    "name": "Social Influence",
+    "aliases": ["peer pressure", "conformity", "groups", "crowd", "social pressure"],
+    "description": "How other people and group settings can shape choices, actions, and beliefs.",
+    "broadAreas": ["Social Psychology"],
+    "exampleQuestions": ["When do people follow a group?", "How does belonging affect behaviour?"],
+    "relatedTopicIds": ["relationships-attachment", "culture-identity", "decision-making", "personality-differences"],
+    "classification": "psymap-normalized"
+  },
+  {
+    "id": "memory-learning",
+    "name": "Memory & Learning",
+    "aliases": ["memory", "learning", "remembering", "forgetting", "study"],
+    "description": "How people take in, retain, retrieve, and lose information.",
+    "broadAreas": ["Cognitive Psychology"],
+    "exampleQuestions": ["What makes information memorable?", "Why do people forget?"],
+    "relatedTopicIds": ["attention-perception", "brain-behaviour", "language-cognition"],
+    "classification": "psymap-normalized"
+  },
+  {
+    "id": "attention-perception",
+    "name": "Attention & Perception",
+    "aliases": ["attention", "focus", "distraction", "perception", "senses"],
+    "description": "How people select what to notice and interpret sensory information.",
+    "broadAreas": ["Cognitive Psychology", "Perception"],
+    "exampleQuestions": ["Why is distraction so powerful?", "How do expectations affect what we notice?"],
+    "relatedTopicIds": ["memory-learning", "brain-behaviour", "language-cognition", "stress-coping"],
+    "classification": "psymap-normalized"
+  },
+  {
+    "id": "language-cognition",
+    "name": "Language & Cognition",
+    "aliases": ["language", "thought", "thinking", "words", "reasoning"],
+    "description": "How language and thinking interact as people understand and communicate ideas.",
+    "broadAreas": ["Cognitive Psychology", "Psycholinguistics"],
+    "exampleQuestions": ["How might language shape thought?", "How do people understand ambiguous words?"],
+    "relatedTopicIds": ["memory-learning", "attention-perception", "culture-identity"],
+    "classification": "psymap-normalized"
+  },
+  {
+    "id": "human-development",
+    "name": "Human Development",
+    "aliases": ["development", "childhood", "adolescence", "children", "aging"],
+    "description": "How thinking, emotion, and social behaviour change across the lifespan.",
+    "broadAreas": ["Developmental Psychology"],
+    "exampleQuestions": ["How do children learn to manage emotions?", "What changes during adolescence?"],
+    "relatedTopicIds": ["emotion", "relationships-attachment", "personality-differences"],
+    "classification": "psymap-normalized"
+  },
+  {
+    "id": "emotion",
+    "name": "Emotion",
+    "aliases": ["emotions", "feelings", "mood", "emotion regulation"],
+    "description": "How feelings arise, are expressed, and are regulated.",
+    "broadAreas": ["Affective Science", "Social Psychology"],
+    "exampleQuestions": ["Why do people react differently to the same event?", "How do emotions influence choices?"],
+    "relatedTopicIds": ["human-development", "stress-coping", "relationships-attachment", "decision-making", "mental-health-wellbeing"],
+    "classification": "psymap-normalized"
+  },
+  {
+    "id": "stress-coping",
+    "name": "Stress & Coping",
+    "aliases": ["stress", "coping", "resilience", "pressure", "overwhelmed"],
+    "description": "How people respond to demands and use resources to adapt.",
+    "broadAreas": ["Health Psychology"],
+    "exampleQuestions": ["How can stress change attention?", "Why do people cope differently?"],
+    "relatedTopicIds": ["emotion", "mental-health-wellbeing", "health-behaviour", "attention-perception"],
+    "classification": "psymap-normalized"
+  },
+  {
+    "id": "mental-health-wellbeing",
+    "name": "Mental Health & Wellbeing",
+    "aliases": ["mental health", "wellbeing", "well-being", "psychological wellness"],
+    "description": "How psychologists study psychological distress and wellbeing; PsyMap does not diagnose or give health advice.",
+    "broadAreas": ["Clinical Psychology", "Health Psychology"],
+    "exampleQuestions": ["How is wellbeing studied?", "How are stress and wellbeing related?"],
+    "relatedTopicIds": ["stress-coping", "health-behaviour", "emotion"],
+    "classification": "psymap-normalized"
+  },
+  {
+    "id": "personality-differences",
+    "name": "Personality & Individual Differences",
+    "aliases": ["personality", "traits", "individual differences", "temperament"],
+    "description": "How patterns of traits and behaviour differ between people.",
+    "broadAreas": ["Personality Psychology"],
+    "exampleQuestions": ["Why do personalities differ?", "How stable are traits over time?"],
+    "relatedTopicIds": ["human-development", "culture-identity", "decision-making", "social-influence"],
+    "classification": "psymap-normalized"
+  },
+  {
+    "id": "relationships-attachment",
+    "name": "Relationships & Attachment",
+    "aliases": ["relationships", "friendship", "attachment", "belonging", "closeness"],
+    "description": "How bonds, closeness, and belonging form and change.",
+    "broadAreas": ["Social Psychology", "Developmental Psychology"],
+    "exampleQuestions": ["What makes friendships feel close?", "How do early bonds relate to later relationships?"],
+    "relatedTopicIds": ["social-influence", "human-development", "emotion"],
+    "classification": "psymap-normalized"
+  },
+  {
+    "id": "culture-identity",
+    "name": "Culture & Identity",
+    "aliases": ["culture", "identity", "community", "belonging", "social identity"],
+    "description": "How cultural contexts and identities relate to thought and behaviour.",
+    "broadAreas": ["Cultural Psychology", "Social Psychology"],
+    "exampleQuestions": ["How does culture shape behaviour?", "How does social identity affect belonging?"],
+    "relatedTopicIds": ["social-influence", "language-cognition", "personality-differences"],
+    "classification": "psymap-normalized"
+  },
+  {
+    "id": "brain-behaviour",
+    "name": "Brain & Behaviour",
+    "aliases": ["brain", "brain and behaviour", "neuroscience", "nervous system"],
+    "description": "How biological systems and brain activity relate to behaviour and experience.",
+    "broadAreas": ["Behavioural Neuroscience", "Biological Psychology"],
+    "exampleQuestions": ["How are attention and the brain connected?", "What happens in the brain while learning?"],
+    "relatedTopicIds": ["memory-learning", "attention-perception", "decision-making", "health-behaviour"],
+    "classification": "psymap-normalized"
+  },
+  {
+    "id": "decision-making",
+    "name": "Decision Making",
+    "aliases": ["decision", "choice", "judgment", "risk", "risky"],
+    "description": "How people evaluate options, uncertainty, and consequences when choosing.",
+    "broadAreas": ["Cognitive Psychology", "Social Psychology"],
+    "exampleQuestions": ["Why do people make risky choices?", "How do emotions affect judgment?"],
+    "relatedTopicIds": ["social-influence", "emotion", "personality-differences", "brain-behaviour"],
+    "classification": "psymap-normalized"
+  },
+  {
+    "id": "health-behaviour",
+    "name": "Health Behaviour",
+    "aliases": ["health", "habits", "sleep", "exercise", "routine"],
+    "description": "How everyday actions and contexts relate to physical and psychological health.",
+    "broadAreas": ["Health Psychology"],
+    "exampleQuestions": ["How does sleep relate to behaviour?", "Why are habits hard to change?"],
+    "relatedTopicIds": ["stress-coping", "mental-health-wellbeing", "brain-behaviour"],
+    "classification": "psymap-normalized"
+  }
+]
